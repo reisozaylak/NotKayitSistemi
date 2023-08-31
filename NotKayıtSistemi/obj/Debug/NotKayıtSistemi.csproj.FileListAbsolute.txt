@@ -1,0 +1,13 @@
+C:\Users\reis\source\repos\NotKayıtSistemi\NotKayıtSistemi\bin\Debug\NotKayıtSistemi.exe.config
+C:\Users\reis\source\repos\NotKayıtSistemi\NotKayıtSistemi\bin\Debug\NotKayıtSistemi.exe
+C:\Users\reis\source\repos\NotKayıtSistemi\NotKayıtSistemi\bin\Debug\NotKayıtSistemi.pdb
+C:\Users\reis\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.csproj.AssemblyReference.cache
+C:\Users\reis\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\reis\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.FrmGiris.resources
+C:\Users\reis\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.FrmOgrenciDetay.resources
+C:\Users\reis\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.FrmOgretmenDetay.resources
+C:\Users\reis\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.Properties.Resources.resources
+C:\Users\reis\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.csproj.GenerateResource.cache
+C:\Users\reis\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.csproj.CoreCompileInputs.cache
+C:\Users\reis\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.exe
+C:\Users\reis\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.pdb
